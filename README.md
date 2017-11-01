@@ -1,7 +1,10 @@
 # Science Fair Project
 ## DNA/RNA Transcription
-### Biology 1
-### Mrs. Jane
+
+##Project info
+### Class: Biology 1
+### Teacher: Mrs. Mode
 
 ## Sources
-[https://en.wikipedia.org/wiki/Messenger_RNA](Messenger RNA Article)
+### Article on Messenger RNA
+https://en.wikipedia.org/wiki/Messenger_RNA
