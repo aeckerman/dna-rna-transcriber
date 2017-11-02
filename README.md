@@ -1,7 +1,7 @@
 # Science Fair Project
 ## DNA/RNA Transcription
 
-##Project info
+## Project info
 ### Class: Biology 1
 ### Teacher: Mrs. Mode
 
